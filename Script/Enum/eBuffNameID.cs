@@ -1,0 +1,21 @@
+public enum eBuffNameID
+{
+    None = -1,
+    Fire,
+    SlowDown,
+    HealingUp,
+    PowerUp,
+    DefenseUp,
+    UltimateGuageUp,
+    DashBlock,
+    InfiniteSwap,
+    SuperArmor,
+    ExplostionDeath,
+    BloodParty,
+    SpeedUp,
+    DashDurationDown,
+    DashAttack,
+    PowerOverwalming,
+    AttackSpeedUp,
+    InstanceHealing,
+}
